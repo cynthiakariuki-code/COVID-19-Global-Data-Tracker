@@ -19,7 +19,7 @@ This project analyzes global COVID-19 data from [Our World in Data](https://ourw
 - `pandas` – for data manipulation and cleaning  
 - `matplotlib` – for static visualizations  
 - `seaborn` – for enhanced statistical plots  
-- `plotly.express` – for interactive maps (optional)  
+- `plotly.express` – for interactive maps 
 - `Jupyter Notebook` – for interactive analysis and documentation
 
 ---
